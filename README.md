@@ -13,4 +13,12 @@
 |For Loop | Iterating over a list, For and if with list |
 |While Loop |Continue with Condition, Break, continue, pass, Functions, Lambda Function|
 
-    
+
+|Statistics         | Cover|
+|-------------------|------|
+|Basics  | Inferential Statistics, Descriptive Statistics, Data Types, Population, Sample|        
+| |Central Tendencies, Measures of Dispersion |
+|Feature Scaling | Z-score, Min-Max Scaling|
+|Variable Relationship | Co-variance, Correlation, Multi-Collinearity, ANOVA, Kurtosis |
+|Distributions |Normal Distribution, Poisson Distribution, Bionominal Distribution |
+| |Hypothesis Testing, Central Limit Theorem, Confidence Interval |
