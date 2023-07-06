@@ -22,3 +22,23 @@
 |Variable Relationship | Co-variance, Correlation, Multi-Collinearity, ANOVA, Kurtosis |
 |Distributions |Normal Distribution, Poisson Distribution, Bionominal Distribution |
 | |Hypothesis Testing, Central Limit Theorem, Confidence Interval |
+
+
+|Machine Learning   | Cover|
+|-------------------|------|
+|Basics |Supervised Learning, Unsupervised Learning |
+|Linear Regression | One Variable, Multiple Variables, Multiple Features, Model Evaluation metrics|
+|Logistic Regeression | Basics, Code, Model Evaluation metrics|
+|KNN |Basics, Code, Model Evaluation metrics |
+|Naive Bayes Classifier |Basics, Code, Model Evaluation metrics |
+|Decision Tree | Basics, Code, Model Evaluation metrics|
+|Ensemble Learning | Basics, Bias and Varience Tradeoff, Different Algorithms and camparison, Bagging and Boosting|
+|Bagging (Random Forest) |Basics, Code, Model Evaluation metrics |
+|Boosting (XGBoost, CatBoost...) |Basics, Code, Model Evaluation metrics |
+|Clustering Algoritms (K Means Clustering)|Basics, Code, Model Evaluation metrics |
+|Clustering Algoritms (Hierarchical Clustering)|Basics, Code, Model Evaluation metrics |
+|Dimensionality Reduction |Basics, Code, Selecting Number of Principal Components |
+
+
+
+
